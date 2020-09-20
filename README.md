@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainlab" alt="hossainlab" /> </p>
 
-- 🔭 I’m currently working on [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](https://github.com/hdro/Antibiotics-Registance)
+- 🔭 I’m currently working on [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](https://www.researchgate.net/project/Public-Perception-on-the-Spread-of-Antibiotic-Resistance-in-Bangladesh)
 
 - 🌱 I’m currently learning **Microscopic Image Processing**
 
