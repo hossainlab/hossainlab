@@ -11,15 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainlab" alt="hossainlab" /> </p>
 
-- 🔭 I’m currently working on [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](https://www.researchgate.net/project/Public-Perception-on-the-Spread-of-Antibiotic-Resistance-in-Bangladesh)
-
+- 🔭 I’m currently working on [Antibiotics Resistance, Diabetes and Thalassemia](https://hdrobd.org/project/)
 - 🌱 I’m currently learning **Microscopic Image Processing**
-
 - 👨‍💻 All of my projects are available at [https://jhossain.me/](https://jhossain.me/)
-
 - 📝 I regulary write articles on [https://jhossain.me/](https://jhossain.me/)
-
-- 💬 Ask me about **Python, Bioinformatics & Data Analysis**
-
-- 📫 How to reach me **jubayer@hdrobd.org**
+- 📝 All of my Profiles [https://allmylinks.com/jhossain28](https://allmylinks.com/jhossain28)
+- 💬 Ask me about **Python, Bioinformatics & Health Data Analysis**
+- 📫 How to reach me **contact.jubayerhossain@gmail.com**
 
