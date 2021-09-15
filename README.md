@@ -1,5 +1,5 @@
 <h1 align="center">Md. Jubayer Hossain</h1>
-<h3 align="center">A Health Data Science Enthusiastic from Bangladesh :bangladesh:</h3>
+<h3 align="center">Founder, Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)</h3>
 
 <p align="center">
 <a href="https://twitter.com/jhossain28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jhossain28" height="30" width="30" /></a>
