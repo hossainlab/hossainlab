@@ -10,7 +10,6 @@
 <a href="https://medium.com/@jhossain28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jhossain28" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">About Me</h3>
 I am a Graduate student at the Department of Microbiology at Jagannath University, Dhaka. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
 
 I am the founder of Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh), a non-profit organization dedicated to health research to improve lives in Bangladesh.
