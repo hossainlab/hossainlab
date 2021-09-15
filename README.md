@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jubayer Hossain</h1>
+<h1 align="center">Md. Jubayer Hossain</h1>
 <h3 align="center">A Health Data Science Enthusiastic from Bangladesh :bangladesh:</h3>
 
 <p align="center">
