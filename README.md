@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact.jubayerhossain@gmail.com**
 
-- 📄 Know about my experiences [https://hossainlab.github.io/CV/CV_Jubayer_Hossain.pdf](https://hossainlab.github.io/CV/CV_Jubayer_Hossain.pdf)
+- 📄 Know about my experiences [[https://hossainlab.github.io/CV/CV_Jubayer_Hossain.pdf](https://hossainlab.github.io/cv/)]([https://hossainlab.github.io/CV/CV_Jubayer_Hossain.pdf](https://hossainlab.github.io/cv/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
