@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **contact.jubayerhossain@gmail.com**
 
-- 📄 Know about my experiences [https://hossainlab.github.io/CV/CV_Jubayer_Hossain.pdf](https://hossainlab.github.io/cv/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jhossain_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhossain_28" height="30" width="40" /></a>
