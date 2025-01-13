@@ -14,7 +14,7 @@
 <a href="https://twitter.com/jhossain_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhossain_28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hossainmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossainmj" height="30" width="40" /></a>
 <a href="https://kaggle.com/jhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jhossain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hossainlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hossainlab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hossainlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hossainlab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
