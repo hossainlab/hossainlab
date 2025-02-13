@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainlab&label=Profile%20views&color=0e75b6&style=flat" alt="hossainlab" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hossainlab.github.io/](https://hossainlab.github.io/)
+- 👨‍💻 All of my projects are available at [https://hossainlab.owlstown.net/](https://hossainlab.owlstown.net/)
 
-- 📝 I regularly write articles on [https://hossainlab.github.io/](https://hossainlab.github.io/)
+- 📊DataViz Gallery on [https://hossainlab.github.io/dataviz-gallery/](https://hossainlab.github.io/dataviz-gallery/)
 
 - 📫 How to reach me **contact.jubayerhossain@gmail.com**
 
