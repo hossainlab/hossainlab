@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Jubayer Hossain</h1>
-<h3 align="center">A passionate Health Data Analyst from Bangladesh</h3>
+<h3 align="center">Biomedical Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainlab&label=Profile%20views&color=0e75b6&style=flat" alt="hossainlab" /> </p>
 
