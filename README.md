@@ -21,7 +21,7 @@ I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My l
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUa05wsFn5OWHEapIiSEYp7T)
 
 ## **Connect with me**
-[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/hossain_lab)
+[![Follow](https://img.shields.io/twitter/follow/hossain_lab)](https://www.twitter.com/hossain_lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hossainmj/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/jhossain.me/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/jhossain/)
