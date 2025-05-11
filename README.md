@@ -1,22 +1,31 @@
-<h1 align="center">Hi 👋, I'm Md. Jubayer Hossain</h1>
-<h3 align="center">Biomedical Researcher</h3>
+<a href="https://www.youtube.com/dataprofessor?sub_confirmation=1">
+  <img width="100%" src="https://github.com/dataprofessor/dataprofessor/raw/master/Twitter-Channel-Art.jpg">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainlab&label=Profile%20views&color=0e75b6&style=flat" alt="hossainlab" /> </p>
+## **Bio**
 
-- 👨‍💻 All of my projects are available at [https://hossainlab.owlstown.net/](https://hossainlab.owlstown.net/)
+I am a biomedical researcher focusing on neuroepidemiology, cancer epidemiology, and cancer bioinformatics. My primary interest lies in applying machine learning algorithms to health data including electronic health records, multi-omics big data, and neurological images. I aim to optimize clinically actionable biomarkers and develop predictive models to enable early diagnosis and treatment for neurological disorders and cancer. Furthermore, I am interested in visualizing these data and models to facilitate biological interpretation and clinical applications.
 
-- 📊DataViz Gallery on [https://hossainlab.github.io/dataviz-gallery/](https://hossainlab.github.io/dataviz-gallery/)
+I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My leadership extends to [aiHealth Lab]() and [Big Bioinformatics Lab](), where the focus is on advancing cancer bioinformatics and artificial intelligence for health. As an educator, I hold the position of Lead Instructor and Organizer at the Training Unit of CHIRAL. Additionally, I serve as an instructor for the Data Science for Biologists program at cBLAST.
 
-- 📫 How to reach me **contact.jubayerhossain@gmail.com**
+<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jhossain_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhossain_28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hossainmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossainmj" height="30" width="40" /></a>
-<a href="https://kaggle.com/jhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jhossain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hossainlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hossainlab" height="30" width="40" /></a>
-</p>
+## **Support my work:**
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## **Learn Data Science for FREE:**
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](http://youtube.com/dataprofessor)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@chanin.nantasenamat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/dataprofessor/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://newsletter.dataprofessor.org/)
+[![DataProfessor](https://img.shields.io/badge/Data-Professor-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://dataprofessor.org/)
 
+##  **Learn Python and R for FREE:**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUaCZuWpLiM5bV5--gjuY5ZI)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUa05wsFn5OWHEapIiSEYp7T)
+
+## **Connect with me:**
+[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/hossain_lab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hossainmj/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/jhossain.me/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/jhossain/)
