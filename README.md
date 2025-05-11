@@ -8,7 +8,7 @@ I am a biomedical researcher focusing on neuroepidemiology, cancer epidemiology,
 
 I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My leadership extends to [aiHealth Lab]() and [Big Bioinformatics Lab](), where the focus is on advancing cancer bioinformatics and artificial intelligence for health. As an educator, I hold the position of Lead Instructor and Organizer at the Training Unit of CHIRAL. Additionally, I serve as an instructor for the Data Science for Biologists program at cBLAST.
 
-<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
+<a href="https://www.youtube.com/@hossainlab"><img src="https://www.youtube.com/@hossainlab" width="300" alt="Jubayer Hossain" align="right"/></a>
 
 ## **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
