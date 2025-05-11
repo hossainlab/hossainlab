@@ -9,7 +9,6 @@ I am a biomedical researcher focusing on neuroepidemiology, cancer epidemiology,
 
 I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My leadership extends to [aiHealth Lab]() and [Big Bioinformatics Lab](), where the focus is on advancing cancer bioinformatics and artificial intelligence for health. As an educator, I hold the position of Lead Instructor and Organizer at the Training Unit of CHIRAL. Additionally, I serve as an instructor for the Data Science for Biologists program at cBLAST.
 
-
 ##  **Learn Python and R for FREE**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUaCZuWpLiM5bV5--gjuY5ZI)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUa05wsFn5OWHEapIiSEYp7T)
