@@ -10,9 +10,6 @@ I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My l
 
 <a href="https://www.youtube.com/@hossainlab"><img src="https://www.youtube.com/@hossainlab" width="300" alt="Jubayer Hossain" align="right"/></a>
 
-## **Support my work:**
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
-
 ## **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](http://youtube.com/dataprofessor)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@chanin.nantasenamat)
