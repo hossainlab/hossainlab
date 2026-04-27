@@ -5,9 +5,8 @@
 
 ## **Bio**
 
-I am a biomedical researcher focusing on neuroepidemiology, cancer epidemiology, and cancer bioinformatics. My primary interest lies in applying machine learning algorithms to health data including electronic health records, multi-omics big data, and neurological images. I aim to optimize clinically actionable biomarkers and develop predictive models to enable early diagnosis and treatment for neurological disorders and cancer. Furthermore, I am interested in visualizing these data and models to facilitate biological interpretation and clinical applications.
+I am a bioinformatics scientist with a track record of building and deploying reproducible multi-omics frameworks to decode the molecular architecture of cancer and neurological diseases. My research interests three interconnected domains: (1) Integrative analysis of bulk RNA-seq, single-cell RNA-seq, and spatial transcriptomics identify robust immunological biomarkers and therapeutic targets within tumor microenvironments. (2) Deep learning applications in single-cell genomics (data integration, celltype annotation) 
 
-I am currently the Founder and Executive Director of [CHIRAL Bangladesh](). My leadership extends to [aiHealth Lab]() and [Big Bioinformatics Lab](), where the focus is on advancing cancer bioinformatics and artificial intelligence for health. As an educator, I hold the position of Lead Instructor and Organizer at the Training Unit of CHIRAL. Additionally, I serve as an instructor for the Data Science for Biologists program at cBLAST.
 
 ##  **Learn Python and R for FREE**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUaCZuWpLiM5bV5--gjuY5ZI)
