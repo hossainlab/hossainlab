@@ -3,16 +3,12 @@
 <p align="center">
 <b>Bioinformatics Scientist</b><br>
 Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
-</p>
-
-<p align="center">
 
 <a href="https://mdjubayerhossain.com">🌐 Website</a> •
 <a href="https://scholar.google.com/">Google Scholar</a> •
 <a href="https://orcid.org/">ORCID</a> •
 <a href="https://www.linkedin.com/company/hossainmj/">LinkedIn</a> •
 <a href="https://www.youtube.com/@hossainlab">YouTube</a>
-
 </p>
 
 ---
