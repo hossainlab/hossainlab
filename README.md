@@ -1,19 +1,94 @@
-<a href="https://www.youtube.com/@hossainlab">
-  <img width="100%" src="https://github.com/hossainlab/hossainlab/blob/master/cover.jpg">
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/@hossainlab">
+    <img src="cover.jpg" width="100%" alt="Hossain Lab">
+  </a>
+</p>
+
+<h1 align="center">Md. Jubayer Hossain</h1>
+
+<p align="center">
+<b>Bioinformatics Scientist</b><br>
+Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
+</p>
+
+<p align="center">
+
+<a href="https://mdjubayerhossain.com">🌐 Website</a> •
+<a href="https://scholar.google.com/">Google Scholar</a> •
+<a href="https://orcid.org/">ORCID</a> •
+<a href="https://www.linkedin.com/company/hossainmj/">LinkedIn</a> •
+<a href="https://www.youtube.com/@hossainlab">YouTube</a>
+
+</p>
+
+---
+
+## About Me
+
+I am a **Bioinformatics Scientist** with research interests in cancer genomics, single-cell transcriptomics, spatial transcriptomics, and multi-omics data integration.
+
+My work focuses on analysing large-scale public genomic datasets to understand tumour biology, cellular heterogeneity, immune–tumour interactions, and disease mechanisms. I develop reproducible computational workflows that transform complex biological data into biologically meaningful discoveries.
+
+I am particularly interested in integrating bulk RNA-seq, single-cell RNA-seq, and spatial transcriptomics to identify robust biomarkers and therapeutic targets for precision oncology. My long-term research goal is to contribute to computational approaches that improve our understanding of cancer biology through open science and reproducible bioinformatics.
+
+---
+
+# Research Interests
+
+- 🧬 Cancer Genomics
+- 🔬 Single-Cell Transcriptomics
+- 🧫 Spatial Transcriptomics
+- 🧩 Multi-omics Integration
+- 🤖 AI in Biology
+- 📊 Reproducible Bioinformatics
+- ☁️ High Performance Computing
+
+---
+
+# Current Focus
+
+- Integrative analysis of public cancer genomics datasets
+- Single-cell tumour microenvironment analysis
+- Spatial transcriptomics workflows
+- Multi-omics data integration
+- Reproducible bioinformatics pipelines
+- Open-source computational biology resources
+
+---
+
+# Technical Expertise
+
+### Programming
+
+- Python
+- R
+- SQL
+- Bash
+
+### Bioinformatics
+
+- Scanpy
+- Seurat
+- CellTypist
+- scVI-tools
+- DESeq2
+- edgeR
+- clusterProfiler
+- Cell Ranger
+- Nextflow
+- nf-core
+
+### Infrastructure
+
+- Linux
+- Docker
+- Git
+- SLURM
+- HPC
 
 
-## **Bio**
+<p align="center">
 
-I am a bioinformatics scientist with a track record of building and deploying reproducible multi-omics frameworks to decode the molecular architecture of cancer and neurological diseases. My research interests three interconnected domains: (1) Integrative analysis of bulk RNA-seq, single-cell RNA-seq, and spatial transcriptomics identify robust immunological biomarkers and therapeutic targets within tumor microenvironments. (2) Deep learning applications in single-cell genomics (data integration, celltype annotation) 
+*"Advancing biomedical discovery through reproducible bioinformatics and open science."*
 
-
-##  **Learn Python and R for FREE**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUaCZuWpLiM5bV5--gjuY5ZI)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PLQtDkvtE4BUa05wsFn5OWHEapIiSEYp7T)
-
-## **Connect with me**
-[![Follow](https://img.shields.io/twitter/follow/hossain_lab)](https://www.twitter.com/hossain_lab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hossainmj/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/jhossain.me/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/jhossain/)
+</p>
