@@ -1,7 +1,5 @@
-<h1 align="center">Md. Jubayer Hossain</h1>
-
 <p align="center">
-<b>Bioinformatics Scientist</b><br>
+<h1>Bioinformatics Scientist</h1><br>
 Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
 </b><br>
 <a href="https://mdjubayerhossain.com">🌐 Website</a> •
