@@ -3,7 +3,7 @@
 <p align="center">
 <b>Bioinformatics Scientist</b><br>
 Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
-
+</b><br>
 <a href="https://mdjubayerhossain.com">🌐 Website</a> •
 <a href="https://scholar.google.com/">Google Scholar</a> •
 <a href="https://orcid.org/">ORCID</a> •
@@ -32,50 +32,6 @@ I am particularly interested in integrating bulk RNA-seq, single-cell RNA-seq, a
 - 🤖 AI in Biology
 - 📊 Reproducible Bioinformatics
 - ☁️ High Performance Computing
-
----
-
-# Current Focus
-
-- Integrative analysis of public cancer genomics datasets
-- Single-cell tumour microenvironment analysis
-- Spatial transcriptomics workflows
-- Multi-omics data integration
-- Reproducible bioinformatics pipelines
-- Open-source computational biology resources
-
----
-
-# Technical Expertise
-
-### Programming
-
-- Python
-- R
-- SQL
-- Bash
-
-### Bioinformatics
-
-- Scanpy
-- Seurat
-- CellTypist
-- scVI-tools
-- DESeq2
-- edgeR
-- clusterProfiler
-- Cell Ranger
-- Nextflow
-- nf-core
-
-### Infrastructure
-
-- Linux
-- Docker
-- Git
-- SLURM
-- HPC
-
 
 <p align="center">
 
