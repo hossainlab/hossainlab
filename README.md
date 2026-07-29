@@ -1,5 +1,5 @@
+# Bioinformatics Scientist 
 <p align="center">
-<h1>Bioinformatics Scientist</h1><br>
 Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
 </b><br>
 <a href="https://mdjubayerhossain.com">🌐 Website</a> •
