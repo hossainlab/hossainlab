@@ -1,4 +1,7 @@
+<p align="center">
 # Bioinformatics Scientist 
+</p>
+
 <p align="center">
 Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • Multi-omics Integration
 </b><br>
