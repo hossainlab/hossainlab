@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.youtube.com/@hossainlab">
-    <img src="cover.jpg" width="100%" alt="Hossain Lab">
-  </a>
-</p>
-
 <h1 align="center">Md. Jubayer Hossain</h1>
 
 <p align="center">
