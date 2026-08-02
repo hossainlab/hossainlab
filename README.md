@@ -1,5 +1,5 @@
 <h1 align="center">
- Bioinformatics Scientist 
+Multiomics Scientist
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@ Cancer Genomics • Single-Cell Transcriptomics • Spatial Transcriptomics • 
 
 ## About Me
 
-I am a **Bioinformatics Scientist** with research interests in cancer genomics, single-cell transcriptomics, spatial transcriptomics, and multi-omics data integration.
+I am a **Multiomics Scientist** with research interests in cancer genomics, single-cell transcriptomics, spatial transcriptomics, and multi-omics data integration.
 
 My work focuses on analysing large-scale public genomic datasets to understand tumour biology, cellular heterogeneity, immune–tumour interactions, and disease mechanisms. I develop reproducible computational workflows that transform complex biological data into biologically meaningful discoveries.
 
